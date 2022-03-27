@@ -1,15 +1,16 @@
-# Basic Sample Hardhat Project
+# Web3 Blog CMS Dapp
+ブログシステムDappのサンプルです。
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+### 技術スタック
+- Solidity （^0.8.0）
+- Hardhat
+- The Graph
+- OpenZepplin
+- Ethers.js
+- React, Next.js
+- IPFS
+- MetaMask
+- HTML, CSS, JavaScript
 
-Try running some of the following tasks:
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+参考： [The Complete Guide to Full Stack Web3 Development](https://dev.to/edge-and-node/the-complete-guide-to-full-stack-web3-development-4g74)
